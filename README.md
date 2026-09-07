@@ -3,7 +3,15 @@
 > Agentic Text-to-SQL system that converts natural-language questions
 > into SQL, executes queries, and delivers results through tables,
 > visualizations, and AI-generated insights.
+<br>
+<br>
 
 ## Architecture
 
 <img src="text2sql-flow-diagram.svg" alt="Text2SQL Agent Architecture" width="1000">
+<br>
+<br>
+
+## Evaluation
+
+<img src="text2sql-eval-harness.svg" alt="Text2SQL Agent Architecture" width="1000">
